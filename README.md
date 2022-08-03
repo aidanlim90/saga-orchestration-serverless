@@ -1,5 +1,5 @@
 ---
-page_type: sample
+page_type: sample1
 languages:
 - csharp
 products:
