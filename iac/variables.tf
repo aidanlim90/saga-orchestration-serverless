@@ -1,7 +1,7 @@
 #Azure account variables
 variable "sub" {
   type        = string
-  description = "Subscription that will host the infrastructure"
+  description = "Subscription that will host the infrastructure 1"
 }
 
 variable "client_secret" {
